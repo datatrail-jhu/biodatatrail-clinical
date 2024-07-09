@@ -1,0 +1,26 @@
+
+# Practicing with Clinical Data
+
+
+
+## About the dataset
+
+We will use the data from this paper: https://www.cell.com/cell-genomics/pdf/S2666-979X(23)00115-5.pdf  
+
+## How to get the data
+
+You can find the data here: https://github.com/AlexsLemonade/OpenPBTA-analysis/tree/master?tab=readme-ov-file#how-to-obtain-openpbta-data
+
+## Basic analyses
+
+Walk through some basic analyses, referencing techniques from
+https://hutchdatascience.org/Cancer_Clinical_Informatics/
+
+
+## Basic plots
+
+
+```{r}
+sessionInfo()
+
+```
