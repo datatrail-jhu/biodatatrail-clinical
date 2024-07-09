@@ -1,0 +1,17 @@
+introduction
+motivation
+target-audience
+curriculum
+introduction-to-clinical-data
+what-is-clinical-data
+why-is-clinical-data-important
+what-are-the-general-types-of-clinical-data
+getting-started-with-clinical-data
+what-are-the-important-aspects-of-clinical-data-that-need-to-be-understood-before-we-can-analyze-it
+what-is-pii-and-phi-and-why-is-it-important
+practicing-with-clinical-data
+about-the-dataset
+how-to-get-the-data
+basic-analyses
+basic-plots
+references
